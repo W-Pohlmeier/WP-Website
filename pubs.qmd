@@ -1,0 +1,9 @@
+---
+title: "My Publications"
+---
+
+Here is my publications. bla bla bla
+
+inline code $e = m c^2$
+
+🤣

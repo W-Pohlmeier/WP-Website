@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+![Winfried Pohlmeier](WP-GSDS.jpg){fig-align="center" width="5cm"}

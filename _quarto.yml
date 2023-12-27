@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "WP_quarto_website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - CV.qmd
+      - pubs.qmd
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

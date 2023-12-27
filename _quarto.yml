@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "WP_quarto_website"
+  title: "Winfried Pohlmeier Website"
   navbar:
     left:
       - href: index.qmd

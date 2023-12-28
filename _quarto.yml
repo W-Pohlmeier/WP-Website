@@ -10,6 +10,7 @@ website:
       - about.qmd
       - CV.qmd
       - pubs.qmd
+      - working_papers.qmd
       - teaching.qmd
       
 format:
@@ -17,6 +18,7 @@ format:
     theme: default
     css: styles.css
     toc: true
+    toc-depth: 4
 
 editor: visual
 

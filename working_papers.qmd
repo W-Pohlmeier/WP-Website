@@ -1,0 +1,35 @@
+---
+title: "Work in Progress"
+---
+
+------------------------------------------------------------------------
+
+::: callout-warning
+## Under Construction
+
+this page is still incomplte
+:::
+
+### Working Papers
+
+-   Sparse Approximate Factor Estimation for High-Dimensional Covariance Ma- trices, with Maurizio Daniele and Aygul Zagidullina, arXiv:1906.05545, <https://doi.org/10.48550/arXiv.1906.05545> under revision
+
+-   Heterogeneity in Network Peer Eﬀects, with Derya Uysal and Livia Shkoza, submitted
+
+-   Bayesian Regularization of Portfolio Weights, with C. Frey, <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2730475>, under revision.
+
+-   Bagged Forecast Combination for Tail Risk Measures, with Roxana Halbleib and Ekaterina Kazak.
+
+-   A Network Model of Stress Contagion in the Classroom: Do Learning Ar- rangements Matter?, with Tobias Kärner a and Livia Shkoza, submitted
+
+-   How well can Noncognitive Skills predict Unemployment? A Machine Learning Approach, with Jana Mareckova, <http://dx.doi.org/10.13140/RG.2.2.33573.96488>
+
+### Lecture Notes
+
+-   Econometrics , unpublished lettuce notes, University of Konstanz
+
+-   Advanced Econometrics
+
+-   Financial Econometrics
+
+-   Microeconometrics

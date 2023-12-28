@@ -1,5 +1,5 @@
 ---
-title: "My Publications"
+title: "Publications"
 ---
 
 ------------------------------------------------------------------------
@@ -31,5 +31,7 @@ I want to upload my list of publications as a pdf here.
 -   Economic Forecasts , 2011, Jahrbücher für Nationalökonomie und Statistik (Journal of Economics and Statistics), 231(1), special issue edited with R. Brüggemann and W. Smolny.
 
 -   ....
+
+------------------------------------------------------------------------
 
 [Download my publication list as pdf](https://raw.githubusercontent.com/W-Pohlmeier/WP-Website/main/POHLMEIER_W_PUBLIST_2023_04.pdf)

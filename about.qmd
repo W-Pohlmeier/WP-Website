@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-![Winfried Pohlmeier](WP-GSDS.jpg){fig-align="center" width="5cm"}
+![Winfried Pohlmeier](WP-GSDS.jpg){fig-align="left" width="5cm"}
+
+I am a retired professor of econometrics at the [University of Konstanz](https://www.uni-konstanz.de/en/university/) and a senior professor of 
+computational statistics at the 
+[Zeppelin University](https://www.zeppelin-university.com/) in Friedrichshafen.

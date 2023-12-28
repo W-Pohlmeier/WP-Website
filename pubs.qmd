@@ -2,8 +2,32 @@
 title: "My Publications"
 ---
 
-Here is my publications. bla bla bla
+------------------------------------------------------------------------
 
-inline code $e = m c^2$
+::: callout-warning
+## Under Construction
 
-🤣
+I want to upload my list of publications as a pdf here.
+:::
+
+### Publications in Refereed Journals
+
+-   Bagged Pretested Portfolio Selection, 2022, *Journal of Business and Economics Statistics*, with Ekaterina Kazak, <https://doi.org/10.1080/07350015.2022.2110880>
+
+-   Response to Zöller's et al.’s critique on “Potential short-term earthquake fore- casting by farm-animal monitoring”, 2021, *Ethology*; 127: 307-308, with Martin Wikelski et al., <https://doi.org/10.1111/eth.13122>
+
+-   Potential short-term earthquake forecasting by farm-animal monitoring, 2020, *Ethology*; 126: 931–941, with Martin Wikelski et al., <https://doi.org/10.1111/eth.13078>
+
+-   ....
+
+### Publications in Volumes
+
+-   Estimation of Labour Supply Functions Using Panel Data: A Survey, 2008, Chapter 23, in: L. Matyas and P. Sevestre (eds.), The Econometrics of Panel Data: Fundamentals and Recent Developments in Theory and Practice , Heidelberg: Springer, 761-794, with B. Koebel, F. Laisney and M. Staat.
+
+-   ....
+
+### Monographs and Edited Books
+
+-   Economic Forecasts , 2011, Jahrbücher für Nationalökonomie o und Statistik (Journal of Economics and Statistics), 231(1), special issue edited with R. Brüggemann and W. Smolny.
+
+-   ....

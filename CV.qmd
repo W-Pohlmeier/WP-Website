@@ -2,12 +2,8 @@
 title: "CV"
 ---
 
-Here is my cv.
-
-<!--# Does not work -->
-
-```         
-\includepdf[pages={-}]{dummy.pdf}
-```
 
 ------------------------------------------------------------------------
+
+
+[Download my CV pdf](https://raw.githubusercontent.com/W-Pohlmeier/WP-Website/main/CV_Pohlmeier_2023_04.pdf)

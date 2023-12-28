@@ -12,6 +12,7 @@ website:
       - pubs.qmd
       - working_papers.qmd
       - teaching.qmd
+      - downloads.qmd
       
 format:
   html:

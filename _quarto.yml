@@ -13,7 +13,14 @@ website:
       - working_papers.qmd
       - teaching.qmd
       - downloads.qmd
-      
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+      - icon: envelope
+        text: Email
+        href: "mailto:mail.marvinschmitt@gmail.com" 
+           
 format:
   html:
     theme: default

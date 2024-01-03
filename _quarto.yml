@@ -15,12 +15,12 @@ website:
       - downloads.qmd
     right:
       - icon: github
-        href: https://w-pohlmeier.github.io/WP-Website/
+        href: https://github.com/
         aria-label: GitHub
       - icon: envelope
         text: Email
-        href: "mailto:mail.marvinschmitt@gmail.com" 
-
+        href: "mailto:Winfried.Pohlmeier@uni-konstanz.de" 
+      
 format:
   html:
     theme: default

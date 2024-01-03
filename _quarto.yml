@@ -15,18 +15,18 @@ website:
       - downloads.qmd
     right:
       - icon: github
-        href: https://github.com/
+        href: https://w-pohlmeier.github.io/WP-Website/
         aria-label: GitHub
       - icon: envelope
         text: Email
         href: "mailto:mail.marvinschmitt@gmail.com" 
-           
+
 format:
   html:
     theme: default
     css: styles.css
     toc: true
     toc-depth: 4
-
+  
 editor: visual
 

@@ -12,3 +12,5 @@ title: "About"
 -->
 ```
 I am a retired professor of econometrics at the [University of Konstanz](https://www.uni-konstanz.de/en/university/) and a senior professor of computational statistics at the [Zeppelin University](https://www.zeppelin-university.com/) in Friedrichshafen.
+
+My main main areas of research are machine learning, microeconometrics and financial econometrics.

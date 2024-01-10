@@ -12,7 +12,7 @@ I want to upload my list of publications as a pdf here.
 
 ### Publications in Refereed Journals
 
--   Bagged Pretested Portfolio Selection, 2022, *Journal of Business and Economics Statistics*, with Ekaterina Kazak, <https://doi.org/10.1080/07350015.2022.2110880>
+-   Bagged Pretested Portfolio Selection, 2023, *Journal of Business and Economics Statistics*, 41, 1116–1131, with Ekaterina Kazak, <https://doi.org/10.1080/07350015.2022.2110880>
 
 -   Response to Zöller's et al.’s critique on “Potential short-term earthquake fore- casting by farm-animal monitoring”, 2021, *Ethology*; 127: 307-308, with Martin Wikelski et al., <https://doi.org/10.1111/eth.13122>
 
@@ -34,4 +34,4 @@ I want to upload my list of publications as a pdf here.
 
 ------------------------------------------------------------------------
 
-[Download my publication list as pdf](https://raw.githubusercontent.com/W-Pohlmeier/WP-Website/main/POHLMEIER_W_PUBLIST_2023_04.pdf)
+[Download my publication list as pdf](https://cloud.uni-konstanz.de/index.php/s/F2DMdmE9m7jQyxe)

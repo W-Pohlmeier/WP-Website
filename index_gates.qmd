@@ -2,22 +2,18 @@
 title: "Winfried Pohlmeier's Webpage"
 date: 2024-01-01
 date-modified: today
-author: 
-    - name: "Winfried Pohlmeier"
-      url: https://www.wiwi.uni-konstanz.de/pohlmeier//
-      email: Winfried.Pohlmeier@uni-konstanz.de
-      affiliations:
-           - name: University of Konstanz
-             affiliation-url: https://www.wiwi.uni-konstanz.de/en/ 
-             address: 
-               street: 440 5th Ave N
-               city: Seattle
-               state: WA
-               postal-code: 98109-4631
-           - name: Zeppelin University
-             affiliation-url: https://www.zeppelin-university.com/ 
-           - name: RCEA
-             affiliation-url: https://www.rcea.world/
+author:
+  - name: Bill Gates
+    orcid: 0000-0003-0707-7417
+    linkedin: "https://www.linkedin.com/in/winfried-pohlmeier-97a01623/"
+    email: bill@gates.com
+    affiliations:
+      - name: Bill & Melinda Gates Foundation
+        address: 440 5th Ave N
+        city: Seattle
+        state: WA
+        postal-code: 98109-4631
+linkedin: "https://www.linkedin.com/in/winfried-pohlmeier-97a01623/"
 title-block-banner: true
 ---
 

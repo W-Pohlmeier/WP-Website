@@ -20,8 +20,6 @@ this page is still incomplete
 
 -   Bagged Forecast Combination for Tail Risk Measures, with Roxana Halbleib and Ekaterina Kazak.
 
--   A Network Model of Stress Contagion in the Classroom: Do Learning Ar- rangements Matter?, with Tobias Kärner a and Livia Shkoza, submitted.
-
 -   How well can Noncognitive Skills predict Unemployment? A Machine Learning Approach, with Jana Mareckova, <http://dx.doi.org/10.13140/RG.2.2.33573.96488>.
 
 ### Lecture Notes

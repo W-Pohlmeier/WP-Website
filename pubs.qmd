@@ -7,10 +7,12 @@ title: "Publications"
 ::: callout-warning
 ## Under Construction
 
-I want to upload my list of publications as a pdf here.
+this page is still incomplete.
 :::
 
-### Publications in Refereed Journals
+### Recent Publications in Refereed Journals
+
+-   A network model of stress contagion: evidence from the vocational classroom, *Empirical Research in Vocational Education and Training*, 2024, with T. Kärner and L. Shkoza, forthcoming
 
 -   Bagged Pretested Portfolio Selection, 2023, *Journal of Business and Economics Statistics*, 41, 1116–1131, with Ekaterina Kazak, <https://doi.org/10.1080/07350015.2022.2110880>
 

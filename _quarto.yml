@@ -16,11 +16,16 @@ website:
     right:
       - icon: github
         href: https://github.com/
-        aria-label: GitHub
+      #  aria-label: GitHub
+        aria-label: Quarto GitHub
       - icon: envelope
         text: Email
         href: "mailto:Winfried.Pohlmeier@uni-konstanz.de" 
-      
+    # - icon: linkedin
+      #  href: "https://linkedin.com/in/oliver-f-anderson"
+      #  aria-label: LinkedIn
+     # - icon: orcid
+     #    href: https://orcid.org/0000-0003-0707-7417
 format:
   html:
     theme: default

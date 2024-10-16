@@ -12,8 +12,6 @@ this page is still incomplete
 
 ### Working Papers
 
--   Sparse Approximate Factor Estimation for High-Dimensional Covariance Ma- trices, with Maurizio Daniele and Aygul Zagidullina, arXiv:1906.05545, <https://doi.org/10.48550/arXiv.1906.05545>, under revision.
-
 -   Heterogeneity in Network Peer Eﬀects, with Derya Uysal and Livia Shkoza, submitted.
 
 -   Bayesian Regularization of Portfolio Weights, with C. Frey, <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2730475>, under revision.

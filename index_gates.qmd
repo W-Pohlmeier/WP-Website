@@ -19,16 +19,14 @@ title-block-banner: true
 
 Address: bla
 
-```{=html}
 <!--
 This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 -->
-```
+
 ```         
 ```
 
-```{=html}
 <!--
 title: "Winfried Pohlmeier's Webpage"
 author: 
@@ -46,6 +44,6 @@ title-block-banner: true
 
 
 -->
-```
+
 ```         
 ```

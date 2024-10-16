@@ -12,9 +12,18 @@ this page is still incomplete.
 
 ### Recent Publications in Refereed Journals
 
--   A network model of stress contagion: evidence from the vocational classroom, *Empirical Research in Vocational Education and Training*, 2024, with T. Kärner and L. Shkoza, forthcoming
 
--   Bagged Pretested Portfolio Selection, 2023, *Journal of Business and Economics Statistics*, 41, 1116–1131, with Ekaterina Kazak, <https://doi.org/10.1080/07350015.2022.2110880>
+- A Sparse Approximate Factor Estimation for High-Dimensional Covariance
+Matrices and Portfolio Selection, 2024, *Journal of Financial Econometrics*, with
+Maurizio Daniele and Aygul Zagidullina,
+<https://doi.org/10.1093/jjfinec/nbae017>
+
+-   A network model of stress contagion: evidence from the vocational classroom, *Empirical Research in Vocational Education and Training*, 2024Vol. 16 (1), with T. Kärner and L. Shkoza, 
+<https://doi.org/10.1186/s40461-024-00166-0> 
+
+
+-   Bagged Pretested Portfolio Selection, 2023, *Journal of Business and Economics Statistics*, 41, 1116–1131, with Ekaterina Kazak, <https://doi.org/10.1080/07350015.2022.2110880>. Listen also to a genAI generated [podcast](https://cloud.uni-konstanz.de/index.php/s/54Nwedwp5KF6NYJ) about this paper by [NotebookLM](https://notebooklm.google/) from google.
+
 
 -   Response to Zöller's et al.’s critique on “Potential short-term earthquake fore- casting by farm-animal monitoring”, 2021, *Ethology*; 127: 307-308, with Martin Wikelski et al., <https://doi.org/10.1111/eth.13122>
 

@@ -18,7 +18,7 @@ Matrices and Portfolio Selection, 2024, *Journal of Financial Econometrics*, wit
 Maurizio Daniele and Aygul Zagidullina,
 <https://doi.org/10.1093/jjfinec/nbae017>
 
--   A network model of stress contagion: evidence from the vocational classroom, *Empirical Research in Vocational Education and Training*, 2024Vol. 16 (1), with T. Kärner and L. Shkoza, 
+-   A network model of stress contagion: evidence from the vocational classroom, *Empirical Research in Vocational Education and Training*, 2024, Vol. 16 (1), with T. Kärner and L. Shkoza, 
 <https://doi.org/10.1186/s40461-024-00166-0> 
 
 

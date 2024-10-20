@@ -18,20 +18,16 @@ University of Freiburg, Winter Term 2023/24
 
 Zeppelin University, Spring Term 2024
 
-```{=html}
 <!--
 (https://zuhause.zeppelin-university.net/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000748,-N0,-N388123110508214,-N388123110590215,-N0,-N0,-N0)
 
 -->
-```
-
 
 #### Applied Machine Learning
 
-Zeppelin University, Winter Term 2024
+Zeppelin University, Fall Term 2024
 
 
-#### Causal Impact Analysis
+#### Causal Impact Evaluation
 
-Zeppelin University, Winter Term 2024
-
+Zeppelin University, Fall Term 2024

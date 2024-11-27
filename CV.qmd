@@ -6,7 +6,7 @@ title: "CV"
 
 ### Short Bio
 
-I studied Economics and Political Science at the University of Konstanz and Princeton University. Under supervision of Heinz König I completed my dissertation the University of Mannheim in 1989, followed by post-doctoral positions as a John F. Kennedy Fellow at Harvard University (1989/19090) and the University of Mannheim. From 1994 until March 2023 I worked as a professor of Economics and Econometrics at the University of Konstanz. Since September 2024 I hold the position of a Seniorprofessor for Computational Statistics at the the Zeppelin University in Friedrichshafen.
+I studied Economics and Political Science at the University of Konstanz and Princeton University. Under supervision of Heinz König I completed my dissertation the University of Mannheim in 1989, followed by post-doctoral positions as a John F. Kennedy Fellow at Harvard University (1989/1990) and the University of Mannheim. From 1994 until March 2023 I worked as a professor of Economics and Econometrics at the University of Konstanz. Since September 2024 I hold the position of a Seniorprofessor for Computational Statistics at the the Zeppelin University in Friedrichshafen.
 
 ```{=html}
 <!--

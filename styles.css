@@ -1,1 +1,18 @@
 /* css styles */
+
+/* Style the title in the title-block banner */
+.quarto-title-block .title {
+  font-family: "Georgia", serif;   /* Choose your font */
+  font-size: 2.2rem;               /* Adjust size */
+  font-weight: 700;                /* Boldness */
+  color: white;                    /* Text color */
+}
+
+/* Optional: style the subtitle */
+.quarto-title-block .subtitle {
+  font-family: "Georgia", serif;
+  font-size: 1.3rem;
+  color: white;
+}
+
+

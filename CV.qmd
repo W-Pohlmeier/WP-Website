@@ -18,8 +18,7 @@ I studied Economics and Political Science at the University of Konstanz and Prin
 
 [Download my CV pdf](https://cloud.uni-konstanz.de/index.php/s/k5YTWzKS2wXaDZR)
 
-
-### Former PhD students
+### Former PhD students 
 
 -   [Sikandar Siddiqui (1997):](https://www.linkedin.com/in/sikandarsiddiqui/?originalSubdomain=de) The Transition to Retirement , Postdoctoral Researcher (Hochschulassistent), University of Hamburg.
 
@@ -47,7 +46,7 @@ I studied Economics and Political Science at the University of Konstanz and Prin
 
 -   [Magdalena Ramada-Sarasola (2009):](https://www.linkedin.com/in/magdalena-ramada-sarasola-phd-73560210/?originalSubdomain=es) Four Essays on Firm Offshoring and Innovation Behavior , Assist. Prof. Universidad de la Republica, Montevideo, Uruguay
 
--   [Roxana Chiriac (2010):](https://www.econometrics.uni-freiburg.de/de/mitarbeitende/roxana-halbleib) Four Essay on Measuring Financial Risks, Postdoctoral Researcher, Free University of Brussels
+-   [Roxana Halbleib Chiriac (2010):](https://www.econometrics.uni-freiburg.de/de/mitarbeitende/roxana-halbleib) Four Essay on Measuring Financial Risks, Postdoctoral Researcher, Free University of Brussels
 
 -   [Remi Piatek (2010):](https://www.linkedin.com/in/remi-piatek/?originalSubdomain=dk) Three Essays on Bayesian Factor Models , Postdoctoral Researcher, University of Chicago
 
@@ -73,7 +72,7 @@ I studied Economics and Political Science at the University of Konstanz and Prin
 
 -   [Jana Mareckova (2019):](https://sites.google.com/view/janamareckova) Three Essays on Regularization and Machine Learning, Postdoctoral Researcher, University of St. Gallen.
 
--   [Ekaterina Kazak (2019):](https://research.manchester.ac.uk/en/persons/ekaterina.kazak) Three Essays on Robust Inference in Economics and Finance, Lecturer, University of Manchester.
+-   [Ekaterina Kazak (2019):](https://www.birmingham.ac.uk/staff/profiles/business/kazak-ekaterina) Three Essays on Robust Inference in Economics and Finance, Lecturer, University of Manchester.
 
 -   [Aygul Zagidullina (2019):](https://www.linkedin.com/in/aygul-zagidullina-phd-2307?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6bmypPjzR3mR%2F%2BwVAz%2FWkQ%3D%3D) Three Essays on Covariance Matrix Estimation and Factor Models in High Dimensions, Data Scientist at Digital Transformations & Products Labs, Credit Suisse, Zurich.
 

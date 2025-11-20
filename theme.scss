@@ -1,0 +1,121 @@
+
+/*-- scss:rules --*/
+
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* --------------------------
+   Global typography
+   -------------------------- */
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 17px;
+  line-height: 1.55;
+  color: #1d1d1f;
+}
+
+/* --------------------------
+   Headings
+   -------------------------- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.3rem;
+}
+h2 {
+  font-size: 1.9rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
+
+/* --------------------------
+   Navbar modern style
+   -------------------------- */
+.navbar {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.navbar-nav .nav-link,
+.navbar-brand {
+  color: #333 !important;
+  font-weight: 500;
+  letter-spacing: -0.2px;
+  padding: 0.7rem 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #562457 !important;
+}
+
+/* --------------------------
+   Banner title block
+   -------------------------- */
+.quarto-title-block .title {
+  font-family: "Inter", sans-serif;
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: white;
+}
+
+.quarto-title-block .subtitle {
+  font-family: "Inter", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  color: white;
+}
+
+/* --------------------------
+   Links
+   -------------------------- */
+a {
+  color: #562457;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* --------------------------
+   Tables
+   -------------------------- */
+table {
+  font-size: 0.95rem;
+}
+
+/* --------------------------
+   Footer
+   -------------------------- */
+.footer {
+  background-color: #f8f8f8;
+  padding: 1rem 0;
+  color: #666;
+  font-size: 14px;
+  text-align: center;
+}
+
+/* --------------------------
+   Code Blocks
+   -------------------------- */
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.95rem;
+}
+
+pre code {
+  background-color: #f2f2f2;
+  padding: 0.8em;
+  border-radius: 6px;
+  display: block;
+}

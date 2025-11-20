@@ -12,20 +12,22 @@ this page is still incomplete
 
 ### Working Papers
 
--   Heterogeneity in Network Peer Eﬀects, with Derya Uysal and Livia Shkoza, submitted.
+-   Friendship Networks and Academic Success: The Impact of Class Size and Gender
+Composition, with  Livia Shkoza and Derya Uysal, under revision.
 
--   Bayesian Regularization of Portfolio Weights, with C. Frey, <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2730475>, under revision.
+-   [Bayesian Regularization of Portfolio Weights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2730475), with C. Frey,  under revision.
+
 
 -   Bagged Forecast Combination for Tail Risk Measures, with Roxana Halbleib and Ekaterina Kazak.
 
--   How well can Noncognitive Skills predict Unemployment? A Machine Learning Approach, with Jana Mareckova, <http://dx.doi.org/10.13140/RG.2.2.33573.96488>.
+-   [How well can Noncognitive Skills predict Unemployment? A Machine Learning Approach](http://dx.doi.org/10.13140/RG.2.2.33573.96488), with Jana Mareckova.
 
 ### Lecture Notes
 
--   Econometrics , unpublished lecture notes, University of Konstanz
+-   *Econometrics* , unpublished lecture notes, University of Konstanz
 
--   Advanced Econometrics, 2023, unpublished lecture notes, University of Konstanz
+-   *Advanced Econometrics*, 2023, unpublished lecture notes, University of Konstanz
 
--   Financial Econometrics, 2016, unpublished lecture notes, University of Konstanz, with R. Halbleib, I. Nolte and V. Voev
+-   *Financial Econometrics*, 2016, unpublished lecture notes, University of Konstanz, with R. Halbleib, I. Nolte and V. Voev
 
--   Microeconometrics, 2016, unpublished lecture notes, University of Konstanz
+-   *Microeconometrics*, 2016, unpublished lecture notes, University of Konstanz

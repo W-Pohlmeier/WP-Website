@@ -13,13 +13,16 @@ author:
           
 date: 2024-01-01
 date-modified: today
-title-block-banner: true
+# title-block-banner: true
+title-block-banner: "#562457"
 ---
 
+```{=html}
 <!--
 This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 -->
+```
 
 ```         
 ```

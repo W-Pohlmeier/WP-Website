@@ -4,8 +4,7 @@ title: "Publications"
 
 ------------------------------------------------------------------------
 
-
-### Recent Publications 
+### Recent Publications
 
 -   A Sparse Approximate Factor Estimation for High-Dimensional Covariance Matrices and Portfolio Selection, 2024, *Journal of Financial Econometrics*, with Maurizio Daniele and Aygul Zagidullina, <https://doi.org/10.1093/jjfinec/nbae017>
 
@@ -22,5 +21,3 @@ title: "Publications"
 ------------------------------------------------------------------------
 
 [Download my complete publication list as pdf](https://cloud.uni-konstanz.de/index.php/s/p9wSrftp6HyebLQ)
-
-

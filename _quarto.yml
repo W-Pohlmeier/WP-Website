@@ -28,12 +28,24 @@ website:
      #    href: https://orcid.org/0000-0003-0707-7417
 
 
+# format:
+#   html:
+#     theme: default
+#     css: styles.css
+#     toc: true
+#     toc-depth: 4
+
+
 format:
   html:
-    theme: default
-    css: styles.css
+    theme: theme.scss    # <-- NEW
+    css: styles.css      # keep your custom CSS if needed
     toc: true
     toc-depth: 4
-  
+    title-block-banner: "#562457"
+
+
+
+    
 editor: visual
 

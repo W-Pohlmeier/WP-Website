@@ -6,6 +6,10 @@ title: "Publications"
 
 ### Recent Publications
 
+-  Friendship Networks and Academic Success: The Impact of Class Size and Gender
+Composition, 2026, with Livia Shkoza and Derya Uysal, *Empirical Economics*, 
+<https://cloud.uni-konstanz.de/index.php/s/JMJ3RSwQegiPLDk>, Listen also to a genAI generated [podcast](https://cloud.uni-konstanz.de/index.php/s/YbPKHrqfWAYJkAD) about this paper by [NotebookLM](https://notebooklm.google/) from Google.
+
 -   A Sparse Approximate Factor Estimation for High-Dimensional Covariance Matrices and Portfolio Selection, 2024, *Journal of Financial Econometrics*, with Maurizio Daniele and Aygul Zagidullina, <https://doi.org/10.1093/jjfinec/nbae017>
 
 -   Can we give the Maximum Sharpe Ratio Portfolio a Chance?, 2024, in: Knoth, S., Okhrin, Y. and P. Otto, (eds), *Advanced Statistical Methods in Process Monitoring, Finance, and Environmental Science - Essays in Honour of Wolfgang Schmid*, 337–366, Heidelberg: Springer, with Ekaterina Kazak, <https://doi.org/10.1007/978-3-031-69111-9_16>
@@ -20,4 +24,4 @@ title: "Publications"
 
 ------------------------------------------------------------------------
 
-[Download my complete publication list as pdf](https://cloud.uni-konstanz.de/index.php/s/p9wSrftp6HyebLQ)
+[Download my complete publication list as pdf](https://cloud.uni-konstanz.de/index.php/s/M688wxq7z9m3WAG)
